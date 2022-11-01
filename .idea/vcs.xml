@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../AbsenManual" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AbsenManual-LogReg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../KalkulatorAFM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../KalkulatorAFMV2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../KalkulatorAFMV25" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ListGame - RecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NewsApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SistemPemesanan" vcs="Git" />
+  </component>
+</project>
